@@ -1,0 +1,780 @@
+﻿Log file open, 12/07/22 18:55:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.073878
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Engine.ini]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Engine.ini]
+[2022.12.07-09.55.22:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Engine.ini]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Engine.ini]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.07-09.55.22:551][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.07-09.55.22:552][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.07-09.55.22:552][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.07-09.55.22:552][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Engine.ini]
+[2022.12.07-09.55.22:552][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Engine.ini]
+[2022.12.07-09.55.22:554][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.07-09.55.22:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.07-09.55.22:555][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.12.07-09.55.22:555][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.07-09.55.22:555][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.12.07-09.55.22:555][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.07-09.55.22:555][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.07-09.55.22:555][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.07-09.55.22:555][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:555][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.07-09.55.22:555][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.07-09.55.22:555][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:555][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.12.07-09.55.22:555][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.12.07-09.55.22:555][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.12.07-09.55.22:555][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.07-09.55.22:555][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.07-09.55.22:558][  0]LogHAL: Display: Platform has ~ 16 GB [17111773184 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.07-09.55.22:558][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.07-09.55.22:558][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:558][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.07-09.55.22:558][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.07-09.55.22:558][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:558][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.07-09.55.22:558][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:558][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.07-09.55.22:558][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.12.07-09.55.22:559][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.07-09.55.22:560][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.07-09.55.22:560][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.07-09.55.22:560][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Config/Windows/Engine.ini]
+[2022.12.07-09.55.22:560][  0]LogInit: Computer: DESKTOP-QV7G3FO
+[2022.12.07-09.55.22:560][  0]LogInit: User: user
+[2022.12.07-09.55.22:560][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.12.07-09.55.22:560][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.07-09.55.22:560][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.12.07-09.55.22:560][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.07-09.55.22:560][  0]LogMemory: Process Physical Memory: 107.73 MB used, 107.73 MB peak
+[2022.12.07-09.55.22:560][  0]LogMemory: Process Virtual Memory: 101.52 MB used, 101.52 MB peak
+[2022.12.07-09.55.22:560][  0]LogMemory: Physical Memory: 8283.31 MB used,  8035.75 MB free, 16319.06 MB total
+[2022.12.07-09.55.22:560][  0]LogMemory: Virtual Memory: 5161.34 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2022.12.07-09.55.22:562][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.07-09.55.22:601][  0]LogInit: Using OS detected language (ko-KR).
+[2022.12.07-09.55.22:601][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.12.07-09.55.22:601][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.12.07-09.55.22:664][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.07-09.55.22:696][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.07-09.55.22:696][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.07-09.55.22:837][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.07-09.55.22:837][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.07-09.55.22:837][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.07-09.55.22:837][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.07-09.55.22:941][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2022.12.07-09.55.22:941][  0]LogD3D11RHI:       8011/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.12.07-09.55.22:943][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.07-09.55.22:943][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.07-09.55.22:943][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.12.07-09.55.22:949][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.07-09.55.22:949][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.07-09.55.22:949][  0]LogWindows: EnumDisplayDevices:
+[2022.12.07-09.55.22:950][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2022.12.07-09.55.22:950][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2022.12.07-09.55.22:950][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2022.12.07-09.55.22:950][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2022.12.07-09.55.22:951][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.07-09.55.22:951][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2022.12.07-09.55.22:951][  0]LogD3D11RHI:   Driver Version: 517.48 (internal:31.0.15.1748, unified:517.48)
+[2022.12.07-09.55.22:951][  0]LogD3D11RHI:      Driver Date: 9-21-2022
+[2022.12.07-09.55.22:951][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2022.12.07-09.55.23:013][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.07-09.55.23:013][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.07-09.55.23:033][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.12.07-09.55.23:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.07-09.55.23:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.07-09.55.23:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.07-09.55.23:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.07-09.55.23:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.07-09.55.23:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.07-09.55.23:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.07-09.55.23:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.07-09.55.23:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.07-09.55.23:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.07-09.55.23:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.07-09.55.23:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.07-09.55.23:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.07-09.55.23:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.07-09.55.23:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.07-09.55.23:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.07-09.55.23:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.07-09.55.23:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.07-09.55.23:459][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.07-09.55.23:462][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.07-09.55.23:486][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/user/Documents/Unreal Projects/GameProject/Intermediate/Shaders/WorkingDirectory/19900/).
+[2022.12.07-09.55.23:486][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/C1CF76DE433267D7ADDFD78D640BEFDE/'.
+[2022.12.07-09.55.23:487][  0]LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.12.07-09.55.23:487][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.07-09.55.23:487][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.07-09.55.23:487][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.07-09.55.24:093][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.07-09.55.24:134][  0]LogDerivedDataCache: Loaded boot cache 0.04s 85MB C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.12.07-09.55.24:135][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2022.12.07-09.55.24:135][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/Documents/Unreal Projects/GameProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.07-09.55.24:135][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.07-09.55.24:135][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/Documents/Unreal Projects/GameProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.07-09.55.24:135][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.07-09.55.24:144][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.07-09.55.24:144][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.07-09.55.24:144][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.07-09.55.24:146][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.07-09.55.24:146][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.07-09.55.24:146][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.07-09.55.24:168][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.12.07-09.55.24:170][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.07-09.55.24:170][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.07-09.55.24:218][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2022.12.07-09.55.24:474][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.07-09.55.24:605][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.07-09.55.24:605][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.07-09.55.24:605][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.07-09.55.24:605][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.07-09.55.24:605][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.07-09.55.24:615][  0]LogNetVersion: GameProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1766646218)
+[2022.12.07-09.55.25:519][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.036580 seconds
+[2022.12.07-09.55.25:525][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2022.12.07-09.55.25:525][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2022.12.07-09.55.25:525][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.07-09.55.25:874][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.07-09.55.25:876][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.07-09.55.26:115][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-09.55.26:115][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-09.55.26:115][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-09.55.26:116][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-09.55.26:117][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-09.55.26:200][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.07-09.55.26:210][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.07-09.55.26:210][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.07-09.55.26:287][  0]LogOcInput: OculusInput pre-init called
+[2022.12.07-09.55.26:295][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.12.07-09.55.26:295][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.12.07-09.55.26:356][  0]LogEngine: Initializing Engine...
+[2022.12.07-09.55.26:357][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.07-09.55.26:358][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.07-09.55.26:640][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.07-09.55.26:646][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.07-09.55.26:655][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-09.55.26:655][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-09.55.26:655][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-09.55.26:655][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-09.55.26:655][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-09.55.26:655][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.07-09.55.26:655][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-09.55.26:655][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-09.55.26:655][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.07-09.55.26:655][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.07-09.55.26:677][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.07-09.55.26:677][  0]LogAudioMixer: Display: Name: 스피커(High Definition Audio Device)
+[2022.12.07-09.55.26:677][  0]LogAudioMixer: Display: Is Default: Yes
+[2022.12.07-09.55.26:677][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.07-09.55.26:677][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.07-09.55.26:677][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.07-09.55.26:677][  0]LogAudioMixer: Display: Channel Order:
+[2022.12.07-09.55.26:677][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.07-09.55.26:677][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.07-09.55.26:693][  0]LogAudioMixer: Display: Using Audio Device 스피커(High Definition Audio Device)
+[2022.12.07-09.55.26:697][  0]LogInit: FAudioDevice initialized.
+[2022.12.07-09.55.26:698][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.07-09.55.26:775][  0]LogDerivedDataCache: Saved boot cache 0.08s 85MB C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.12.07-09.55.26:775][  0]LogInit: Texture streaming: Enabled
+[2022.12.07-09.55.26:785][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.07-09.55.26:785][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.07-09.55.26:786][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.07-09.55.26:828][  0]LogInit: Transaction tracking system initialized
+[2022.12.07-09.55.26:837][  0]BlueprintLog: New page: 에디터 로드
+[2022.12.07-09.55.26:865][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.12.07-09.55.27:113][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/Unreal Projects/GameProject/Content/' took 0.01s
+[2022.12.07-09.55.27:113][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.12.07-09.55.27:113][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.07-09.55.27:752][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-09.55.27:752][  0]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/Unreal Projects/GameProject/Content/ThirdPersonCPP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-09.55.27:753][  0]LightingResults: New page: 라이팅 빌드
+[2022.12.07-09.55.27:753][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-09.55.27:754][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-09.55.27:754][  0]MapCheck: New page: 맵 체크
+[2022.12.07-09.55.27:754][  0]LightingResults: New page: 라이팅 빌드
+[2022.12.07-09.55.27:784][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.12.07-09.55.28:331][  0]LogAIModule: Creating AISystem for world Level1
+[2022.12.07-09.55.28:340][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-09.55.28:372][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.12.07-09.55.28:373][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-09.55.28:373][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.21ms.
+[2022.12.07-09.55.28:373][  0]LogFileHelpers: Loading map 'Level1' took 0.621
+[2022.12.07-09.55.28:489][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-09.55.28:495][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-09.55.28:499][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-09.55.28:504][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-09.55.28:510][  0]LogCollectionManager: Loaded 0 collections in 0.002576 seconds
+[2022.12.07-09.55.28:522][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/Unreal Projects/GameProject/Saved/Collections/' took 0.00s
+[2022.12.07-09.55.28:522][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/Unreal Projects/GameProject/Content/Developers/user/Collections/' took 0.00s
+[2022.12.07-09.55.28:522][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/Unreal Projects/GameProject/Content/Collections/' took 0.00s
+[2022.12.07-09.55.28:522][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 3047 classes and 719 folders.
+[2022.12.07-09.55.28:525][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.12.07-09.55.28:582][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.12.07-09.55.28:588][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2022.12.07-09.55.28:718][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.07-09.55.28:720][  0]LogSlate: Took 0.001455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.12.07-09.55.28:722][  0]LogSlate: Took 0.001357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.12.07-09.55.28:722][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.07-09.55.28:725][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.07-09.55.28:782][  0]LogRenderer: Reallocating scene render targets to support 1764x748 Format 10 NumSamples 1 (Frame:1).
+[2022.12.07-09.55.28:858][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.12.07-09.55.28:859][  0]LogLoad: (Engine Initialization) Total time: 7.93 seconds
+[2022.12.07-09.55.28:859][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.07-09.55.28:987][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.07-09.55.29:006][  0]LogRenderer: Reallocating scene render targets to support 1764x764 Format 10 NumSamples 1 (Frame:3).
+[2022.12.07-09.55.29:080][  1]LogAssetRegistry: Asset discovery search completed in 4.8630 seconds
+[2022.12.07-09.55.29:082][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.12.07-09.57.03:637][781]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.07-09.57.03:650][781]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.07-09.57.03:794][781]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2022.12.07-09.57.05:859][921]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.12.07-09.57.05:863][921]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-09.57.05:863][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-09.57.05:923][921]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.07-09.57.06:234][921]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.07-09.57.06:640][958]LogSlate: Took 0.000547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.07-09.57.25:872][105]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor)
+[2022.12.07-09.57.28:040][359]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor)
+[2022.12.07-09.57.28:510][413]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor)
+[2022.12.07-09.57.29:203][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_grass_00)
+[2022.12.07-09.57.30:349][624]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2022.12.07-09.59.26:452][509]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.12.07-09.59.26:456][509]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.12.07-09.59.26:470][509]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-09.59.26:470][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-09.59.52:981][756]Candidate modules for hot reload:
+[2022.12.07-09.59.52:981][756]  Dodgeball
+[2022.12.07-09.59.52:981][756]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Dodgeball,9371 Win64 Development -TargetType=Editor -Project="C:/Users/user/Documents/Unreal Projects/GameProject/GameProject.uproject" "C:/Users/user/Documents/Unreal Projects/GameProject/GameProject.uproject"  -IgnoreJunk]
+[2022.12.07-09.59.52:984][756]Warning: Starting HotReload took  0.0s.
+[2022.12.07-10.00.01:489][ 96]CompilerResultsLog: New page: 컴파일 - 2022. 12. 8. 오전 4:00:01
+[2022.12.07-10.00.01:489][ 96]CompilerResultsLog: Building DodgeballEditor...
+[2022.12.07-10.00.01:489][ 96]CompilerResultsLog: Using Visual Studio 2019 14.28.29914 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.07-10.00.01:489][ 96]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.12.07-10.00.01:489][ 96]CompilerResultsLog:   [1/4] Module.Dodgeball.cpp
+[2022.12.07-10.00.01:489][ 96]CompilerResultsLog:   [2/4] UE4Editor-Dodgeball-9371.lib
+[2022.12.07-10.00.01:489][ 96]CompilerResultsLog:      C:\Users\user\Documents\Unreal Projects\GameProject\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\UE4Editor-Dodgeball-9371.lib ???̺귯?? ?? C:\Users\user\Documents\Unreal Projects\GameProject\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\UE4Editor-Dodgeball-9371.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.12.07-10.00.01:489][ 96]CompilerResultsLog:   [3/4] UE4Editor-Dodgeball-9371.dll
+[2022.12.07-10.00.01:489][ 96]CompilerResultsLog:      C:\Users\user\Documents\Unreal Projects\GameProject\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\UE4Editor-Dodgeball-9371.suppressed.lib ???̺귯?? ?? C:\Users\user\Documents\Unreal Projects\GameProject\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\UE4Editor-Dodgeball-9371.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.12.07-10.00.01:489][ 96]CompilerResultsLog:   [4/4] DodgeballEditor.target
+[2022.12.07-10.00.01:489][ 96]CompilerResultsLog: Total time in Parallel executor: 7.44 seconds
+[2022.12.07-10.00.01:489][ 96]CompilerResultsLog: Total execution time: 8.42 seconds
+[2022.12.07-10.00.01:489][ 96]LogMainFrame: MainFrame: Module compiling took 8.512 seconds
+[2022.12.07-10.00.01:522][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.12.07-10.00.01:627][ 96]LogHotReload: Re-instancing DodgeballCharacter after hot-reload.
+[2022.12.07-10.00.02:173][ 96]LogContentBrowser: Native class hierarchy updated for 'Dodgeball' in 0.0006 seconds. Added 32 classes and 2 folders.
+[2022.12.07-10.00.02:178][ 96]Display: HotReload successful (57 functions remapped  0 scriptstructs remapped)
+[2022.12.07-10.00.02:282][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.12.07-10.00.02:297][ 96]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 3049 classes and 722 folders.
+[2022.12.07-10.00.02:297][ 96]Display: HotReload took  9.3s.
+[2022.12.07-10.00.04:405][222]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.12.07-10.00.04:793][251]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.12.07-10.00.04:829][251]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.07-10.00.42:113][348]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.12.07-10.00.42:116][348]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.12.07-10.00.42:116][348]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-10.00.42:116][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-10.00.44:018][503]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor)
+[2022.12.07-10.00.44:767][588]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2022.12.07-10.02.45:522][333]Candidate modules for hot reload:
+[2022.12.07-10.02.45:522][333]  Dodgeball
+[2022.12.07-10.02.45:522][333]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Dodgeball,1235 Win64 Development -TargetType=Editor -Project="C:/Users/user/Documents/Unreal Projects/GameProject/GameProject.uproject" "C:/Users/user/Documents/Unreal Projects/GameProject/GameProject.uproject"  -IgnoreJunk]
+[2022.12.07-10.02.45:524][333]Warning: Starting HotReload took  0.0s.
+[2022.12.07-10.02.59:159][482]CompilerResultsLog: New page: 컴파일 - 2022. 12. 8. 오전 4:02:59
+[2022.12.07-10.02.59:159][482]CompilerResultsLog: Parsing headers for DodgeballEditor
+[2022.12.07-10.02.59:159][482]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\user\Documents\Unreal Projects\GameProject\GameProject.uproject" "C:\Users\user\Documents\Unreal Projects\GameProject\Intermediate\Build\Win64\DodgeballEditor\Development\DodgeballEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2022.12.07-10.02.59:159][482]CompilerResultsLog: Reflection code generated for DodgeballEditor in 5.3648594 seconds
+[2022.12.07-10.02.59:159][482]CompilerResultsLog: Building DodgeballEditor...
+[2022.12.07-10.02.59:159][482]CompilerResultsLog: Using Visual Studio 2019 14.28.29914 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.07-10.02.59:159][482]CompilerResultsLog: Building 5 actions with 12 processes...
+[2022.12.07-10.02.59:159][482]CompilerResultsLog:   [1/5] Module.Dodgeball.gen.cpp
+[2022.12.07-10.02.59:159][482]CompilerResultsLog:   [2/5] Module.Dodgeball.cpp
+[2022.12.07-10.02.59:159][482]CompilerResultsLog:   [3/5] UE4Editor-Dodgeball-1235.lib
+[2022.12.07-10.02.59:159][482]CompilerResultsLog:      C:\Users\user\Documents\Unreal Projects\GameProject\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\UE4Editor-Dodgeball-1235.lib ???̺귯?? ?? C:\Users\user\Documents\Unreal Projects\GameProject\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\UE4Editor-Dodgeball-1235.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.12.07-10.02.59:159][482]CompilerResultsLog:   [4/5] UE4Editor-Dodgeball-1235.dll
+[2022.12.07-10.02.59:159][482]CompilerResultsLog:      C:\Users\user\Documents\Unreal Projects\GameProject\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\UE4Editor-Dodgeball-1235.suppressed.lib ???̺귯?? ?? C:\Users\user\Documents\Unreal Projects\GameProject\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\UE4Editor-Dodgeball-1235.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.12.07-10.02.59:159][482]CompilerResultsLog:   [5/5] DodgeballEditor.target
+[2022.12.07-10.02.59:159][482]CompilerResultsLog: Total time in Parallel executor: 6.84 seconds
+[2022.12.07-10.02.59:159][482]CompilerResultsLog: Total execution time: 13.24 seconds
+[2022.12.07-10.02.59:159][482]LogMainFrame: MainFrame: Module compiling took 13.641 seconds
+[2022.12.07-10.02.59:245][482]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2022.12.07-10.02.59:296][482]LogClass: Could not find existing class DodgeballCharacter in package /Script/Dodgeball for HotReload, assuming new class
+[2022.12.07-10.02.59:391][482]LogHotReload: Re-instancing DodgeballCharacter after hot-reload.
+[2022.12.07-10.02.59:975][482]LogContentBrowser: Native class hierarchy updated for 'Dodgeball' in 0.0006 seconds. Added 32 classes and 2 folders.
+[2022.12.07-10.02.59:981][482]Display: HotReload successful (57 functions remapped  0 scriptstructs remapped)
+[2022.12.07-10.03.00:118][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.12.07-10.03.00:135][482]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 3049 classes and 722 folders.
+[2022.12.07-10.03.00:135][482]Display: HotReload took 14.6s.
+[2022.12.07-10.03.00:408][482]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.12.07-10.03.02:643][482]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.235 s
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: === Handled ensure: ===
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: 
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: Ensure condition failed: ParentActor != ActorPtr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/SceneOutliner/Private/ActorTreeItem.cpp] [Line: 247]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: Encountered an Actor attached to itself (ThirdPersonCharacter_2)
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: Stack: 
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff0d8a0fff UE4Editor-SceneOutliner.dll!DispatchCheckVerify<bool,<lambda_3b245066b5178cc62d2fed2fa646dffb> >() [d:\build\++ue4\sync\engine\source\runtime\core\public\misc\assertionmacros.h:167]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff0d7f9c68 UE4Editor-SceneOutliner.dll!SceneOutliner::FActorTreeItem::CreateParent() [d:\build\++ue4\sync\engine\source\editor\sceneoutliner\private\actortreeitem.cpp:247]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff0d80392b UE4Editor-SceneOutliner.dll!SceneOutliner::SSceneOutliner::EnsureParentForItem() [d:\build\++ue4\sync\engine\source\editor\sceneoutliner\private\ssceneoutliner.cpp:1454]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff0d7dbb25 UE4Editor-SceneOutliner.dll!SceneOutliner::SSceneOutliner::AddUnfilteredItemToTree() [d:\build\++ue4\sync\engine\source\editor\sceneoutliner\private\ssceneoutliner.cpp:1518]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff0d7da4da UE4Editor-SceneOutliner.dll!SceneOutliner::SSceneOutliner::AddItemToTree() [d:\build\++ue4\sync\engine\source\editor\sceneoutliner\private\ssceneoutliner.cpp:1491]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff0d845a2d UE4Editor-SceneOutliner.dll!SceneOutliner::SSceneOutliner::Populate() [d:\build\++ue4\sync\engine\source\editor\sceneoutliner\private\ssceneoutliner.cpp:1233]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff0d8643f4 UE4Editor-SceneOutliner.dll!SceneOutliner::SSceneOutliner::Tick() [d:\build\++ue4\sync\engine\source\editor\sceneoutliner\private\ssceneoutliner.cpp:4069]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d2759f UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1234]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d25810 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff413028f4 UE4Editor-Slate.dll!SBorder::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\layout\sborder.cpp:120]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d25810 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff413028f4 UE4Editor-Slate.dll!SBorder::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\layout\sborder.cpp:120]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d26042 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:96]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d28646 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d2617c UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:12]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d25810 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d28646 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff41305574 UE4Editor-Slate.dll!SSplitter::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\layout\ssplitter.cpp:164]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d25810 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d28646 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff41305574 UE4Editor-Slate.dll!SSplitter::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\layout\ssplitter.cpp:164]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d26042 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:96]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d25810 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d28646 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d2617c UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:12]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d25810 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d25810 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff413028f4 UE4Editor-Slate.dll!SBorder::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\layout\sborder.cpp:120]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d26042 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:96]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d28646 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d2617c UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:12]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d25810 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d28646 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff41305574 UE4Editor-Slate.dll!SSplitter::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\layout\ssplitter.cpp:164]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d26042 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:96]
+[2022.12.07-10.03.02:643][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d25810 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d28646 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d2617c UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:12]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d28646 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:31]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d2617c UE4Editor-SlateCore.dll!SPanel::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\spanel.cpp:12]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d26042 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\soverlay.cpp:96]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d25810 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\scompoundwidget.cpp:35]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d27c8e UE4Editor-SlateCore.dll!SWidget::Paint() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swidget.cpp:1337]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d28757 UE4Editor-SlateCore.dll!SWindow::PaintSlowPath() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swindow.cpp:2048]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40c90681 UE4Editor-SlateCore.dll!FSlateInvalidationRoot::PaintInvalidationRoot() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\fastupdate\slateinvalidationroot.cpp:209]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff40d28a42 UE4Editor-SlateCore.dll!SWindow::PaintWindow() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swindow.cpp:2080]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff410f036c UE4Editor-Slate.dll!FSlateApplication::DrawWindowAndChildren() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:1012]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff4111f5a4 UE4Editor-Slate.dll!FSlateApplication::PrivateDrawWindows() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:1241]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff41143de2 UE4Editor-Slate.dll!FSlateApplication::TickApplication() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:1484]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fff41143316 UE4Editor-Slate.dll!FSlateApplication::Tick() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:1350]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007ff782d8901f UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:4589]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007ff782d9c3ec UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:173]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007ff782d9c4ca UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:134]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007ff782daceae UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:263]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007ff782dafcbe UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\2\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fffd54d74b4 KERNEL32.DLL!UnknownFunction []
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: [Callstack] 0x00007fffd58c26a1 ntdll.dll!UnknownFunction []
+[2022.12.07-10.03.02:644][482]LogOutputDevice: Error: 
+[2022.12.07-10.03.02:651][482]LogStats:                SubmitErrorReport -  0.000 s

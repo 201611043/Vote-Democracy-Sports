@@ -1,0 +1,831 @@
+﻿Log file open, 09/15/22 00:55:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Dodgeball
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.149663
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Engine.ini]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Engine.ini]
+[2022.09.14-15.55.48:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Engine.ini]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Engine.ini]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.09.14-15.55.48:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Engine.ini]
+[2022.09.14-15.55.48:040][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Engine.ini]
+[2022.09.14-15.55.48:043][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.09.14-15.55.48:043][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.09.14-15.55.48:044][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.09.14-15.55.48:044][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.14-15.55.48:044][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.09.14-15.55.48:048][  0]LogHAL: Display: Platform has ~ 16 GB [17111773184 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.14-15.55.48:048][  0]LogInit: Going up to parent DeviceProfile []
+[2022.09.14-15.55.48:048][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.14-15.55.48:048][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:048][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Scalability.ini]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.09.14-15.55.48:049][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Config/Windows/Engine.ini]
+[2022.09.14-15.55.48:050][  0]LogInit: Computer: DESKTOP-QV7G3FO
+[2022.09.14-15.55.48:050][  0]LogInit: User: user
+[2022.09.14-15.55.48:050][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.09.14-15.55.48:050][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.14-15.55.48:050][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.09.14-15.55.48:050][  0]LogMemory: Platform Memory Stats for Windows
+[2022.09.14-15.55.48:050][  0]LogMemory: Process Physical Memory: 109.16 MB used, 109.16 MB peak
+[2022.09.14-15.55.48:050][  0]LogMemory: Process Virtual Memory: 101.57 MB used, 101.57 MB peak
+[2022.09.14-15.55.48:050][  0]LogMemory: Physical Memory: 7025.08 MB used,  9293.98 MB free, 16319.06 MB total
+[2022.09.14-15.55.48:050][  0]LogMemory: Virtual Memory: 5161.34 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2022.09.14-15.55.48:052][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.14-15.55.48:073][  0]LogInit: Using OS detected language (ko-KR).
+[2022.09.14-15.55.48:073][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.09.14-15.55.48:074][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.09.14-15.55.48:141][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.14-15.55.48:173][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.14-15.55.48:173][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.14-15.55.48:368][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.09.14-15.55.48:368][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.09.14-15.55.48:368][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.09.14-15.55.48:368][  0]LogD3D11RHI: D3D11 adapters:
+[2022.09.14-15.55.48:471][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2022.09.14-15.55.48:471][  0]LogD3D11RHI:       8011/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.09.14-15.55.48:473][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.09.14-15.55.48:473][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.09.14-15.55.48:473][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.09.14-15.55.48:480][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.09.14-15.55.48:480][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.14-15.55.48:480][  0]LogWindows: EnumDisplayDevices:
+[2022.09.14-15.55.48:480][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2022.09.14-15.55.48:480][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2022.09.14-15.55.48:480][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2022.09.14-15.55.48:481][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2022.09.14-15.55.48:481][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.09.14-15.55.48:481][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2022.09.14-15.55.48:481][  0]LogD3D11RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.09.14-15.55.48:481][  0]LogD3D11RHI:      Driver Date: 3-17-2022
+[2022.09.14-15.55.48:481][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2022.09.14-15.55.48:537][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.09.14-15.55.48:537][  0]LogD3D11RHI: Async texture creation enabled
+[2022.09.14-15.55.48:548][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.09.14-15.55.48:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.14-15.55.48:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.14-15.55.48:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.14-15.55.48:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.14-15.55.48:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.09.14-15.55.48:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.14-15.55.48:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.14-15.55.48:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.09.14-15.55.48:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.09.14-15.55.48:923][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.09.14-15.55.48:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.09.14-15.55.48:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.09.14-15.55.48:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.14-15.55.48:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.14-15.55.48:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.09.14-15.55.48:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.14-15.55.48:998][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.14-15.55.49:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.14-15.55.49:006][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.09.14-15.55.49:010][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.14-15.55.49:042][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/user/Documents/Unreal Projects/Dodgeball/Intermediate/Shaders/WorkingDirectory/18720/).
+[2022.09.14-15.55.49:043][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/6D167D154BC4859CC2D9288C685C0899/'.
+[2022.09.14-15.55.49:043][  0]LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.09.14-15.55.49:043][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.14-15.55.49:043][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.09.14-15.55.49:043][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.09.14-15.55.49:664][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.09.14-15.55.49:709][  0]LogDerivedDataCache: Loaded boot cache 0.04s 82MB C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.09.14-15.55.49:709][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2022.09.14-15.55.49:709][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/Documents/Unreal Projects/Dodgeball/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.14-15.55.49:709][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.09.14-15.55.49:709][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/Documents/Unreal Projects/Dodgeball/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.14-15.55.49:709][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.09.14-15.55.49:719][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.09.14-15.55.49:719][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.14-15.55.49:719][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.09.14-15.55.49:721][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.14-15.55.49:721][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.14-15.55.49:721][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.09.14-15.55.49:742][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.09.14-15.55.49:745][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.14-15.55.49:745][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.14-15.55.49:801][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2022.09.14-15.55.50:057][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.14-15.55.50:197][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.14-15.55.50:197][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.14-15.55.50:197][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.14-15.55.50:197][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.14-15.55.50:197][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.14-15.55.50:207][  0]LogNetVersion: Dodgeball 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 756321784)
+[2022.09.14-15.55.51:219][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.036555 seconds
+[2022.09.14-15.55.51:225][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2022.09.14-15.55.51:225][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2022.09.14-15.55.51:225][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.14-15.55.51:605][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.14-15.55.51:608][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.14-15.55.51:806][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.09.14-15.55.51:806][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.09.14-15.55.51:808][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.09.14-15.55.51:809][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.09.14-15.55.51:810][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.09.14-15.55.51:903][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.14-15.55.51:914][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.14-15.55.51:914][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.14-15.55.51:994][  0]LogOcInput: OculusInput pre-init called
+[2022.09.14-15.55.52:004][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.09.14-15.55.52:004][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.09.14-15.55.52:068][  0]LogEngine: Initializing Engine...
+[2022.09.14-15.55.52:069][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.09.14-15.55.52:070][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.14-15.55.52:348][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.14-15.55.52:355][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.14-15.55.52:363][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.14-15.55.52:363][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.14-15.55.52:363][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.14-15.55.52:363][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.14-15.55.52:363][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.14-15.55.52:363][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.14-15.55.52:363][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.14-15.55.52:363][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.14-15.55.52:363][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.09.14-15.55.52:363][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.14-15.55.52:387][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.09.14-15.55.52:387][  0]LogAudioMixer: Display: Name: 스피커(High Definition Audio Device)
+[2022.09.14-15.55.52:387][  0]LogAudioMixer: Display: Is Default: Yes
+[2022.09.14-15.55.52:387][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2022.09.14-15.55.52:387][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2022.09.14-15.55.52:387][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2022.09.14-15.55.52:387][  0]LogAudioMixer: Display: Channel Order:
+[2022.09.14-15.55.52:387][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.14-15.55.52:387][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.09.14-15.55.52:404][  0]LogAudioMixer: Display: Using Audio Device 스피커(High Definition Audio Device)
+[2022.09.14-15.55.52:408][  0]LogInit: FAudioDevice initialized.
+[2022.09.14-15.55.52:409][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.14-15.55.52:485][  0]LogDerivedDataCache: Saved boot cache 0.08s 82MB C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.09.14-15.55.52:489][  0]LogInit: Texture streaming: Enabled
+[2022.09.14-15.55.52:499][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.14-15.55.52:500][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={E0F9C961-49E7-897F-11EA-018901F2263B}
+[2022.09.14-15.55.52:500][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.09.14-15.55.52:503][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.09.14-15.55.52:537][  0]LogInit: Transaction tracking system initialized
+[2022.09.14-15.55.52:548][  0]BlueprintLog: New page: 에디터 로드
+[2022.09.14-15.55.52:581][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.09.14-15.55.52:838][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/Unreal Projects/Dodgeball/Content/' took 0.01s
+[2022.09.14-15.55.52:838][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.09.14-15.55.52:838][  0]LogCook: Display: Mobile HDR setting 1
+[2022.09.14-15.55.53:489][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.09.14-15.55.53:489][  0]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/Unreal Projects/Dodgeball/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.14-15.55.53:489][  0]LightingResults: New page: 라이팅 빌드
+[2022.09.14-15.55.53:490][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.14-15.55.53:491][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.14-15.55.53:491][  0]MapCheck: New page: 맵 체크
+[2022.09.14-15.55.53:491][  0]LightingResults: New page: 라이팅 빌드
+[2022.09.14-15.55.53:520][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.09.14-15.55.53:526][  0]LogLinker: Warning: '../../../../../../Users/user/Documents/Unreal Projects/Dodgeball/Content/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.uasset' 로드 도중 '/Game/Physics/PM_Dodgeball' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2022.09.14-15.55.53:526][  0]LogLinker: Warning: '../../../../../../Users/user/Documents/Unreal Projects/Dodgeball/Content/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.uasset' 로드 도중 '/Game/Physics/PM_Dodgeball' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2022.09.14-15.55.53:526][  0]LogLinker: Warning: '../../../../../../Users/user/Documents/Unreal Projects/Dodgeball/Content/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.uasset' 로드 도중 '/Game/Physics/PM_Dodgeball' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2022.09.14-15.55.53:526][  0]LogLinker: Warning: '../../../../../../Users/user/Documents/Unreal Projects/Dodgeball/Content/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.uasset' 로드 도중 '/Game/Physics/PM_Dodgeball' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2022.09.14-15.55.53:527][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C
+[2022.09.14-15.55.53:527][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C
+[2022.09.14-15.55.53:527][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C
+[2022.09.14-15.55.53:527][  0]LogLinker: Warning: Unable to load Default__BP_DodgeballProjectile_C with outer Package /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile because its class does not exist
+[2022.09.14-15.55.53:527][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C
+[2022.09.14-15.55.53:527][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C
+[2022.09.14-15.55.53:527][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C
+[2022.09.14-15.55.53:528][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C
+[2022.09.14-15.55.53:574][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C
+[2022.09.14-15.55.53:574][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C
+[2022.09.14-15.55.53:626][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.09.14-15.55.53:631][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.14-15.55.53:661][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.09.14-15.55.53:661][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.14-15.55.53:661][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.197ms.
+[2022.09.14-15.55.53:661][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.172
+[2022.09.14-15.55.53:767][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.14-15.55.53:773][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.14-15.55.53:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.14-15.55.53:783][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.14-15.55.53:788][  0]LogCollectionManager: Loaded 0 collections in 0.001816 seconds
+[2022.09.14-15.55.53:800][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/Unreal Projects/Dodgeball/Saved/Collections/' took 0.00s
+[2022.09.14-15.55.53:800][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/Unreal Projects/Dodgeball/Content/Developers/user/Collections/' took 0.00s
+[2022.09.14-15.55.53:800][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/Unreal Projects/Dodgeball/Content/Collections/' took 0.00s
+[2022.09.14-15.55.53:800][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 3018 classes and 719 folders.
+[2022.09.14-15.55.53:802][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.09.14-15.55.53:872][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.09.14-15.55.53:878][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2022.09.14-15.55.53:964][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.09.14-15.55.53:964][  0]LogLoad: (Engine Initialization) Total time: 7.91 seconds
+[2022.09.14-15.55.53:964][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.14-15.55.53:982][  0]LoadErrors: Warning: CreateExport: 'Sphere' 리소스에 대한 BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C Outer 로드에 실패했습니다.
+[2022.09.14-15.55.53:982][  0]LoadErrors: Warning: CreateExport: 'Projectile Movement' 리소스에 대한 BP_DodgeballProjectile_C /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.Default__BP_DodgeballProjectile_C Outer 로드에 실패했습니다.
+[2022.09.14-15.55.53:982][  0]LoadErrors: Warning: CreateExport: 'DefaultSceneRoot_GEN_VARIABLE' 리소스에 대한 BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C Outer 로드에 실패했습니다.
+[2022.09.14-15.55.53:982][  0]LoadErrors: Warning: CreateExport: 'SimpleConstructionScript_0' 리소스에 대한 BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C Outer 로드에 실패했습니다.
+[2022.09.14-15.55.53:982][  0]LoadErrors: Warning: CreateExport: 'SCS_Node_0' 리소스에 대한 SimpleConstructionScript /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C:SimpleConstructionScript_0 Outer 로드에 실패했습니다.
+[2022.09.14-15.55.53:982][  0]LoadErrors: Warning: CreateExport: 'SCS_Node_2' 리소스에 대한 SimpleConstructionScript /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C:SimpleConstructionScript_0 Outer 로드에 실패했습니다.
+[2022.09.14-15.55.53:982][  0]LoadErrors: Warning: CreateExport: 'Sphere Collision' 리소스에 대한 BP_DodgeballProjectile_C /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.Default__BP_DodgeballProjectile_C Outer 로드에 실패했습니다.
+[2022.09.14-15.55.53:982][  0]LoadErrors: Warning: CreateExport: 'Sphere_GEN_VARIABLE' 리소스에 대한 BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile_C Outer 로드에 실패했습니다.
+[2022.09.14-15.55.54:018][  0]LogAssetRegistry: Asset discovery search completed in 4.2183 seconds
+[2022.09.14-15.55.54:021][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.09.14-15.55.54:021][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.14-15.55.54:128][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.14-15.55.54:130][  0]LogSlate: Took 0.001316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.09.14-15.55.54:131][  0]LogSlate: Took 0.001289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.09.14-15.55.54:132][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.14-15.55.54:134][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.14-15.55.54:207][  1]LogRenderer: Reallocating scene render targets to support 804x592 Format 10 NumSamples 1 (Frame:1).
+[2022.09.14-15.56.51:802][376]LogSlate: Window '메시지 로그' being destroyed
+[2022.09.14-15.56.51:806][376]LogSlate: Window '메시지 로그' being destroyed
+[2022.09.14-15.56.53:610][588]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2022.09.14-15.56.53:613][588]Candidate modules for hot reload:
+[2022.09.14-15.56.53:613][588]  Dodgeball
+[2022.09.14-15.56.53:613][588]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Dodgeball,1126 Win64 Development -TargetType=Editor -Project="C:/Users/user/Documents/Unreal Projects/Dodgeball/Dodgeball.uproject" "C:/Users/user/Documents/Unreal Projects/Dodgeball/Dodgeball.uproject"  -IgnoreJunk]
+[2022.09.14-15.56.53:621][588]Warning: Starting HotReload took  0.0s.
+[2022.09.14-15.56.56:932][950]CompilerResultsLog: New page: 컴파일 - 2022. 9. 15. 오전 9:56:56
+[2022.09.14-15.56.56:932][950]CompilerResultsLog: Building DodgeballEditor...
+[2022.09.14-15.56.56:932][950]CompilerResultsLog: Using Visual Studio 2019 14.28.29914 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.09.14-15.56.56:932][950]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.09.14-15.56.56:932][950]CompilerResultsLog:   [1/4] EnemyCharacter.cpp
+[2022.09.14-15.56.56:933][950]CompilerResultsLog:   [2/4] UE4Editor-Dodgeball-1126.lib
+[2022.09.14-15.56.56:933][950]CompilerResultsLog:      C:\Users\user\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\UE4Editor-Dodgeball-1126.lib ???̺귯?? ?? C:\Users\user\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\UE4Editor-Dodgeball-1126.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.09.14-15.56.56:933][950]CompilerResultsLog:   [3/4] UE4Editor-Dodgeball-1126.dll
+[2022.09.14-15.56.56:933][950]CompilerResultsLog:      C:\Users\user\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\UE4Editor-Dodgeball-1126.suppressed.lib ???̺귯?? ?? C:\Users\user\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\UE4Editor-Dodgeball-1126.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.09.14-15.56.56:933][950]CompilerResultsLog:   [4/4] DodgeballEditor.target
+[2022.09.14-15.56.56:933][950]CompilerResultsLog: Total time in Parallel executor: 2.24 seconds
+[2022.09.14-15.56.56:933][950]CompilerResultsLog: Total execution time: 3.23 seconds
+[2022.09.14-15.56.56:933][950]LogMainFrame: MainFrame: Module compiling took 3.323 seconds
+[2022.09.14-15.56.56:959][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.09.14-15.56.57:325][950]LogClass: Could not find existing class DodgeballProjectile in package /Script/Dodgeball for HotReload, assuming new class
+[2022.09.14-15.56.57:325][950]LogClass: Function OnHit is new.
+[2022.09.14-15.56.57:325][950]LogClass: Could not find existing class EnemyCharacter in package /Script/Dodgeball for HotReload, assuming new class
+[2022.09.14-15.56.57:325][950]LogClass: Could not find existing class VictoryBox in package /Script/Dodgeball for HotReload, assuming new class
+[2022.09.14-15.56.57:325][950]LogClass: Function OnBeginOverlap is new.
+[2022.09.14-15.56.57:325][950]LogClass: Could not find existing class Wall in package /Script/Dodgeball for HotReload, assuming new class
+[2022.09.14-15.56.57:334][950]LogHotReload: Re-instancing EnemyCharacter after hot-reload.
+[2022.09.14-15.56.57:553][950]LogContentBrowser: Native class hierarchy updated for 'Dodgeball' in 0.0005 seconds. Added 6 classes and 2 folders.
+[2022.09.14-15.56.57:555][950]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.09.14-15.56.57:620][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.09.14-15.56.57:631][950]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 3023 classes and 722 folders.
+[2022.09.14-15.56.57:631][950]Display: HotReload took  4.0s.
+[2022.09.14-15.57.06:105][947]LogRenderer: Reallocating scene render targets to support 804x596 Format 10 NumSamples 1 (Frame:1702).
+[2022.09.14-15.57.06:191][947]LogRenderer: Reallocating scene render targets to support 804x772 Format 10 NumSamples 1 (Frame:1703).
+[2022.09.14-15.58.11:191][164]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.14-15.58.11:207][164]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/Dodgeball.DodgeballProjectile
+[2022.09.14-15.58.15:638][240]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2022.09.14-15.58.38:726][999]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile
+[2022.09.14-15.58.41:060][999]LogSlate: Window '메시지' being destroyed
+[2022.09.14-15.58.43:116][231]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/BP_GhostWall.BP_GhostWall
+[2022.09.14-15.58.43:271][231]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2022.09.14-15.58.45:716][443]LogSlate: Window 'BP_GhostWall' being destroyed
+[2022.09.14-15.58.45:721][443]LogSlate: Window 'BP_GhostWall' being destroyed
+[2022.09.14-15.58.45:728][443]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.14-15.58.45:728][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.14-15.58.54:426][468]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/Dodgeball.DodgeballProjectile
+[2022.09.14-15.58.58:668][472]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2022.09.14-15.59.12:093][400]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile
+[2022.09.14-15.59.13:949][400]LogSlate: Window '메시지' being destroyed
+[2022.09.14-15.59.14:370][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.09.14-15.59.16:126][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.09.14-15.59.20:926][199]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/BP_GhostWall.BP_GhostWall
+[2022.09.14-15.59.22:711][380]LogSlate: Window 'BP_GhostWall' being destroyed
+[2022.09.14-15.59.22:716][380]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.09.14-15.59.22:716][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.14-15.59.22:761][380]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/BP_GhostWall.BP_GhostWall
+[2022.09.14-15.59.23:038][380]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.14-15.59.24:300][507]LogSlate: Window 'BP_GhostWall' being destroyed
+[2022.09.14-15.59.24:303][507]LogSlate: Window 'BP_GhostWall' being destroyed
+[2022.09.14-15.59.24:305][507]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.09.14-15.59.24:305][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.14-15.59.25:124][597]LogStaticMesh: Floor_400x400 스태틱 메시 빌드중...
+[2022.09.14-15.59.25:149][597]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.09.14-15.59.25:178][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/BP_VictoryBox.BP_VictoryBox
+[2022.09.14-15.59.26:885][724]LogSlate: Window 'BP_VictoryBox' being destroyed
+[2022.09.14-15.59.26:889][724]LogSlate: Window 'BP_VictoryBox' being destroyed
+[2022.09.14-15.59.26:895][724]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.09.14-15.59.26:895][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.14-15.59.57:387][283]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile
+[2022.09.14-15.59.59:642][283]LogSlate: Window '메시지' being destroyed
+[2022.09.14-16.00.27:250][513]LogWindows: LaunchURL http://docs.unrealengine.com/latest/KOR/Engine/Blueprints/UserGuide/Types/ClassBlueprint/index.html?utm_source=editor&utm_medium=docs&utm_campaign=cb_docs
+[2022.09.14-16.00.27:282][513]LogWindows: Warning: CreateProc failed: 요청한 작업을 수행하려면 권한 상승이 필요합니다. (0x000002e4)
+[2022.09.14-16.00.27:282][513]LogWindows: Warning: URL: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe  --single-argument http://docs.unrealengine.com/latest/KOR/Engine/Blueprints/UserGuide/Types/ClassBlueprint/index.html?utm_source=editor&utm_medium=docs&utm_campaign=cb_docs
+[2022.09.14-16.00.37:040][463]LogSlate: Window '레퍼런스 뷰어' being destroyed
+[2022.09.14-16.00.37:043][463]LogSlate: Window '레퍼런스 뷰어' being destroyed
+[2022.09.14-16.00.42:858][135]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/BP_DodgeballProjectile.BP_DodgeballProjectile
+[2022.09.14-16.00.44:542][135]LogSlate: Window '메시지' being destroyed
+[2022.09.14-16.00.44:579][135]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.09.14-16.00.44:871][135]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.290 s
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: === Handled ensure: ===
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: 
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 632]
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: Unable to resolve IsEventUnimplementable() - Blueprint (BP_DodgeballProjectile) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: Stack: 
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe169a949b UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe167faede UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe167fb862 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe167fb6db UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17a85e2e UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17aaab08 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17a8645e UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17cec7d0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17d25b69 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe1577e3bf UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe15688a68 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17cd7638 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17d009d6 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17cfc733 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17cd5f07 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17cfcc50 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17af0e71 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17b1040b UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17b06587 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17b3284b UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17b0b576 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe06cd4042 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe2634e2df UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe110d5a67 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe11093039 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe110de2ff UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe11090c6a UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe1108d3b0 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe110e8f10 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe110de671 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe273f2175 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe27477b9e UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe27463396 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe27458697 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe704b4c4d UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe704a242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe704b7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe7049ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffeb28de858 USER32.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffeb28de299 USER32.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffe704b8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ff7f8a16db0 UE4Editor.exe!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ff7f8a2c3ec UE4Editor.exe!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ff7f8a2c4ca UE4Editor.exe!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ff7f8a3ceae UE4Editor.exe!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ff7f8a3fcbe UE4Editor.exe!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffeb2327034 KERNEL32.DLL!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: [Callstack] 0x00007ffeb31a2651 ntdll.dll!UnknownFunction []
+[2022.09.14-16.00.44:871][135]LogOutputDevice: Error: 
+[2022.09.14-16.00.44:874][135]LogStats:                SubmitErrorReport -  0.000 s
+[2022.09.14-16.00.46:062][135]LogStats:                    SendNewReport -  1.189 s
+[2022.09.14-16.00.46:062][135]LogStats:             FDebug::EnsureFailed -  1.482 s
+[2022.09.14-16.00.46:064][135]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.09.14-16.00.46:065][135]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: === Handled ensure: ===
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: 
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 731]
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: Unable to resolve IsFieldInaccessible() - Blueprint (BP_DodgeballProjectile) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: Stack: 
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe169a8f5b UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe167fb5fa UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe167fb862 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe167fb6db UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17a85e2e UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17aaab08 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17a8645e UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17cec7d0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17d25b69 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe1577e3bf UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe15688a68 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17cd7638 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17d009d6 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17cfc733 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17cd5f07 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17cfcc50 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17af0e71 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17b1040b UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17b06587 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17b3284b UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe17b0b576 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe06cd4042 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe2634e2df UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe110d5a67 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.09.14-16.00.46:065][135]LogOutputDevice: Error: [Callstack] 0x00007ffe11093039 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffe110de2ff UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffe11090c6a UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffe1108d3b0 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffe110e8f10 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffe110de671 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffe273f2175 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffe27477b9e UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffe27463396 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffe27458697 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffe704b4c4d UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffe704a242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffe704b7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffe7049ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffeb28de858 USER32.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffeb28de299 USER32.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffe704b8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ff7f8a16db0 UE4Editor.exe!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ff7f8a2c3ec UE4Editor.exe!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ff7f8a2c4ca UE4Editor.exe!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ff7f8a3ceae UE4Editor.exe!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ff7f8a3fcbe UE4Editor.exe!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffeb2327034 KERNEL32.DLL!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: [Callstack] 0x00007ffeb31a2651 ntdll.dll!UnknownFunction []
+[2022.09.14-16.00.46:066][135]LogOutputDevice: Error: 
+[2022.09.14-16.00.46:073][135]LogStats:                SubmitErrorReport -  0.000 s

@@ -1,4 +1,5 @@
-![logo](https://user-images.githubusercontent.com/37542417/206664464-6416e724-7306-47b9-8c55-a2e14f043f77.png)
+![데모크라시 스포츠 복사](https://user-images.githubusercontent.com/37542417/206666497-0033e2b0-c62b-435c-81bd-5e227c780eb1.png)
+
 # Vote : Democracy Sports
 정치에 입문한 초짜 정치가가 포도당의 당원이 되어서 함정과 공작을 피하고 세금 포인트를 얻으며 강해져 국회의원이 되는 이야기.
 

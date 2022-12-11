@@ -3,7 +3,7 @@
 # Vote : Democracy Sports
 정치에 입문한 초짜 정치가가 포도당의 당원이 되어서 함정과 공작을 피하고 세금 포인트를 얻으며 강해져 국회의원이 되는 이야기.
 
-W A S D : 이동 , SHIFT : 슬라이딩
+← → ↓ ↑ : 이동 , SHIFT : 슬라이딩
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/37542417/206669603-c6e1af57-75f4-4421-85c1-1516554ffbae.png)
 

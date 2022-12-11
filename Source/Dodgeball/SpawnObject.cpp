@@ -51,6 +51,8 @@ void ASpawnObject::BeginPlay()
 	prey = 0;
 	trapx = 0;
 	trapy = 0;
+	
+	AM2Object::M2Put = false;
 
 	SpawnVote();
 	SpawnTrap();
@@ -611,6 +613,7 @@ void ASpawnObject::MissionRand()
 	else if (rand <= 50)
 	{
 		AM2Base::M2delete = false;
+		AM2Object::M2Put = false;
 		ADodgeballPlayerController::InGameMission = 2;
 		SpawnM2();
 	}
@@ -1211,19 +1214,19 @@ void ASpawnObject::SpawnM4()
 	{
 		if (k <= 25)
 		{
-			SpawnLocation = GetActorLocation() + FVector(1100, 1100, 75);
+			SpawnLocation = GetActorLocation() + FVector(1000, 1000, 75);
 		}
 		else if (k <= 50)
 		{
-			SpawnLocation = GetActorLocation() + FVector(1100, -1100, 75);
+			SpawnLocation = GetActorLocation() + FVector(1000, -1000, 75);
 		}
 		else if (k <= 75)
 		{
-			SpawnLocation = GetActorLocation() + FVector(-1100, 1100, 75);
+			SpawnLocation = GetActorLocation() + FVector(-1000, 1000, 75);
 		}
 		else
 		{
-			SpawnLocation = GetActorLocation() + FVector(-1100, -1100, 75);
+			SpawnLocation = GetActorLocation() + FVector(-1000, -1000, 75);
 		}
 	}
 	else if (ADodgeballPlayerController::CurrentLevel == 3) // 4레벨 구간에서 스폰 좌표
